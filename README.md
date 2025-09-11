@@ -1,6 +1,6 @@
 # Minimalist Cornmeal Porridge 🌽
 
-The official Minimalist Cornmeal Porridge theme for Chromium-based browsers. This design pairs a clean, distraction-free interface with a color scheme that reflects the essence of Cornmeal Porridge, creating a serene and focused browsing experience
+The official Minimalist Cornmeal Porridge theme for Chromium-based browsers. This design pairs a clean, distraction-free interface with a color scheme that reflects the essence of Cornmeal Porridge, creating a serene and focused browsing experience.
 
 ![Minimalist Cornmeal Porridge Theme Preview](images/preview.png)
 
