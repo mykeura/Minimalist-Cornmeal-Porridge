@@ -1,4 +1,4 @@
-# Minimalist Cornmeal Porridge 🌽
+# Minimalist Cornmeal Porridge
 
 A minimal Chrome theme in a warm, golden palette, by Miguel Euraque.
 
